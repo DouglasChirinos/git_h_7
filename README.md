@@ -1,0 +1,3 @@
+# Hit_h_7
+## **Douglas Chirinos**
+*ELIMINAR UN ARCHIVO EN EL REPOSITORIO REMOTO*
